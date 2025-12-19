@@ -1,0 +1,5 @@
+{
+  "name": "FlixStream - Ultra Netflix Clone",
+  "description": "A high-fidelity Netflix clone featuring a cinematic UI, movie categorization, search functionality, watchlist management, and a custom video player.",
+  "requestFramePermissions": []
+}
